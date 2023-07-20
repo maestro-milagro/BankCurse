@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eb238dc-a2a6-4f31-af80-96d8aa5641c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MainTests.java" afterDir="false" />
+    <list default="true" id="9eb238dc-a2a6-4f31-af80-96d8aa5641c3" name="Changes" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MainTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MainTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,36 +37,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/milla/IdeaProjects/HTTP_Request"
+    "last_opened_file_path": "C:/Users/milla/IdeaProjects/Blank2"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.MainTests.findValuteTestNeg">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="DollarCurse" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DollarCurse" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainTests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTests.findValuteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DollarCurse" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainTests" />
-      <option name="METHOD_NAME" value="findValuteTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MainTests.getCurseTestPos">
     <configuration name="MainTests.findValuteTestNeg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DollarCurse" />
       <option name="PACKAGE_NAME" value="" />
@@ -83,12 +51,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainTests.getCurseTestNeg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DollarCurse" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTests" />
+      <option name="METHOD_NAME" value="getCurseTestNeg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTests.getCurseTestNeg2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DollarCurse" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTests" />
+      <option name="METHOD_NAME" value="getCurseTestNeg2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTests.getCurseTestPos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DollarCurse" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTests" />
+      <option name="METHOD_NAME" value="getCurseTestPos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTests.xmlParserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DollarCurse" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTests" />
+      <option name="METHOD_NAME" value="xmlParserTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainTests.getCurseTestPos" />
+        <item itemvalue="JUnit.MainTests.getCurseTestNeg2" />
+        <item itemvalue="JUnit.MainTests.getCurseTestNeg" />
+        <item itemvalue="JUnit.MainTests.xmlParserTest" />
         <item itemvalue="JUnit.MainTests.findValuteTestNeg" />
-        <item itemvalue="JUnit.MainTests.findValuteTest" />
-        <item itemvalue="JUnit.MainTests" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -101,6 +110,14 @@
       <option name="presentableId" value="Default" />
       <updated>1689856004249</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1689864720844</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689864720844</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,5 +130,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
